@@ -1,0 +1,7 @@
+login: stackoverflow_login
+password: stackoverflow_password
+github_login: github_login
+github_password: github_password
+browsers:
+  - Firefox
+  - Chrome

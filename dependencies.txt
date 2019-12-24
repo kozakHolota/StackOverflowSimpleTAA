@@ -1,0 +1,6 @@
+pytest
+selenium
+allure-pytest
+requests
+pyyaml
+webdriver_manager
